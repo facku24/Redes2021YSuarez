@@ -1,0 +1,47 @@
+-------------------------------------------------------------------------
+							DEVOLUCION
+-------------------------------------------------------------------------
+NOMBRE: Suarez, Yohana
+CALIFICACIÓN: 0.17 (No Aprobado)
+Recordar: La calificación del laboratorio va de 0 (No Aprobado) a 1
+ (Aprobado). La calificación no es definitiva y puede modificarse a 
+ medida que el laboratorio sea mejorado.
+-------------------------------------------------------------------------
+							COMENTARIOS
+-------------------------------------------------------------------------
+
+-------------------------------------------------------------------------
+							CODIFICACION (0.5 - No Aprobado)
+-------------------------------------------------------------------------
+	* Posibles Mejoras:
+	  * Se puede agregar factorizacion de funcionamiento a fin de tener
+	    el codigo separado en partes autonomas
+	  * Comentarios en las funciones.
+	* A CORREGIR:
+	* Estructura del directorio. Se requiere que el mismo presente 
+	 la siguiente forma:
+	 /
+	 |_Lab1/
+	 |	  |_ servidor.py
+	 |	  |_ cliente.py
+	 |
+	 |_Lab2/
+	 |
+	 |_Lab3/
+	 .
+	 .
+	 Si bien es una observación, en este primer laboratorio no ha de
+	 ser tenido en cuenta como calificación. A futuro, de no presentar
+	 la forma correcta, significará una pérdida de puntos.
+
+-------------------------------------------------------------------------
+						FUNCIONAMIENTO (0 - No Aprobado)
+-------------------------------------------------------------------------
+* El servidor no esta levantando. Dado ello, no es posible probar el 
+  correcto funcionamiento.
+
+-------------------------------------------------------------------------
+						ENTREGA (0 - No Aprobado)
+-------------------------------------------------------------------------
+* Debido a que el laboratorio no funciona como se espera, el tiempo de entrega
+  se considera como no aprobado.
